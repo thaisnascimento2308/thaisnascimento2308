@@ -1,0 +1,21 @@
+
+h1 {
+  font-size: 25px;
+  color: purple;
+  }
+
+h3 {
+  color: purple;
+}
+
+body {
+  background-color: #fdcbfa;
+  color: white;
+  width: auto;
+}
+
+div {
+  position: relative;
+  left: 270px;
+  top: -262px;
+}
