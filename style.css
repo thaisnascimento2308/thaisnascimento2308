@@ -4,18 +4,41 @@ h1 {
   color: purple;
   }
 
+h2 {
+  font-size: 22px;
+  color: purple;
+}
+
 h3 {
   color: purple;
+  font-size: 22px;
+  position: relative;
+  left: 270px;
+  top: -269px;
+}
+
+.licenças {
+  position: relative;
+  left: 270px;
+  top: -262px;
 }
 
 body {
   background-color: #fdcbfa;
   color: white;
   width: auto;
+  display: block;
 }
 
-div {
-  position: relative;
-  left: 270px;
-  top: -262px;
+a {
+  display: inline-block;
+  margin-right: 50px;
+}
+
+li:hover{
+  background-color: violet;
+}
+
+li:active{
+  color: black;
 }
