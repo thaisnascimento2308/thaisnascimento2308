@@ -2,8 +2,13 @@
 ## Óla, eu sou a Thais Nascimento!👋
 Uma desenvolvedora apaixonada por tecnologia em constante aprendizado. Atualmente, estou cursando Engenharia de Software e transformando minha paixão por resolver problemas em soluções eficientes e criativas no mundo da programação. 💡✨
 
-![Thais Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisnascimento2308&layout=compact&langs_count=7&show_icons=true&theme=radical)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisnascimento2308&layout=compact&langs_count=7&theme=radical"/>
+<br>
+<div align="center">
+  <a href="https://github.com/thaisnascimento2308">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaisnascimento2308&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisnascimento2308&layout=compact&langs_count=7&theme=radical"/>
+</div>
+<br>
 
 ### Tecnologias que utilizo 💻🚀
 
@@ -31,4 +36,3 @@ Busco sempre aprender algo novo e me desafiar, seja aprimorando habilidades téc
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thaisnascimento2308)
 
 “Programadores e artistas são os únicos profissionais que tem como hobby a própria profissão.” – Rafael Lain 🧠
-
