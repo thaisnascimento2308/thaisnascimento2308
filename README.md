@@ -1,6 +1,6 @@
 
 ## Óla, eu sou a Thais Nascimento!👋
-Uma desenvolvedora apaixonada por tecnologia em constante aprendizado. Atualmente, estou cursando Engenharia de Software e transformando minha paixão por resolver problemas em soluções eficientes e criativas no mundo da programação. 💡✨
+Uma desenvolvedora apaixonada por tecnologia e em constante aprendizado. Atualmente, estou cursando Engenharia de Software e transformando minha paixão por resolver problemas em soluções eficientes e criativas no mundo da programação. 💡✨
 
 ![Thais Nascimento GitHub stats](https://github-readme-stats.vercel.app/api?username=thaisnascimento2308&show_icons=true&theme=radical)
 
